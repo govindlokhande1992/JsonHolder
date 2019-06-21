@@ -1,0 +1,92 @@
+{
+  "info": {
+    "name": "Govind Lokhande",
+    "email": "matthewjordanberger@gmail.com",
+    "phone": "(775) 357 7884",
+    "website": "matthewjberger.xyz",
+    "address": "Reno, NV",
+    "image"  : "https://dummyimage.com/640x360/fff/aaa"
+
+  },
+  "education": [
+    {
+      "location": "Reno, NV",
+      "area": "Computer Science and Engineering (Minor in Mathematics)",
+      "endDate": "Dec 2017",
+      "institution": "University of Nevada, Reno",
+      "studyType": "BS",
+      "startDate": "August 2013"
+    }
+  ],
+  "work": [
+    {
+      "location": "Reno, NV",
+      "website": "",
+      "highlights": [
+        "Consolidated a large robotic calibration software suite by architecting a plugin based WPF application, allowing rapid development of new features in a single application for service technicians.",
+        "Automated instrument validation by reverse engineering and consolidating a large software suite for gravimetric analysis into a single, modular, lightweight program compatible with all variations of the core Hamilton robots.",
+        "Repaired all build systems for major codebases and automated manual tasks via scripts, allowing developers to build Hamilton codebases in a reproducible and continuous integration compatible manner.",
+        "Improved the workflow of one of Hamilton's largest OEM customers by creating a plugin-oriented service application and set of calibration routines specifically for their robots that allowed the customer to manage their robots without needing the generic core Hamilton software.",
+        "Created high level C# libraries that simplified complex logic when gathering data from the software describing robotic deck layouts and using that data to execute commands on a robot, including a library that wrapped a particular robot's text only firmware into a logically structured and robust application capable of performing complex tasks on the device with ease and minimal lines of code. "
+      ],
+      "startDate": "October 2014",
+      "company": "Hamilton Robotics",
+      "position": "Software Engineer",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Created a web-enabled, searchable database application of subject experts for use by emergency response teams.",
+        "Architected a database and designed a graphical application using the Entity Framework for object-relational mapping.",
+        "Developed in Visual Studio 2013 with ASP.NET MVC 5, C#, MySQL, LINQ, and Razor markup."
+      ],
+      "company": "Washoe REOC",
+      "position": "Database Application Developer (Contract)",
+      "startDate": "October 2014",
+      "endDate": "May 2016",
+      "location": "Reno, NV"
+    }
+  ],
+  "skills": {
+    "Languages": "Reno, NV",
+    "Tools": "Computer Science and Engineering (Minor in Mathematics)",
+    "OS": "Dec 2017"
+  },
+  "projects": [
+    {
+      "keywords": [
+        "C++",
+        "CMake",
+        "OpenGL"
+      ],
+      "name": "Iceberg3D",
+      "description": "A cross-platform OpenGL-based 3D Game Engine.",
+      "url": "https://github.com/matthewjberger/Iceberg3D"
+    },
+    {
+      "keywords": [
+        "C++",
+        "CMake",
+        "Ogre3D"
+      ],
+      "url": "https://github.com/matthewjberger/eager",
+      "description": "An Ogre3D 1.9 and C++ project template that uses CMake to setup an Ogre development environment quickly and easily",
+      "name": "Eager"
+    },
+    {
+      "keywords": [
+        "Powershell"
+      ],
+      "name": "Scoop Nerd Fonts",
+      "url": "https://github.com/matthewjberger/scoop-nerd-fonts",
+      "description": "Scoop package manager manifests for installing nerd fonts"
+    }
+  ],
+  "sections": [
+    "profile",
+    "work",
+    "education",
+    "projects",
+    "skills"
+  ]
+}
